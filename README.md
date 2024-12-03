@@ -1,3 +1,3 @@
 # test-repo-sql
 
-## TODO description, add queires
+## TODO description, add queries
